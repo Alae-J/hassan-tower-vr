@@ -14,13 +14,9 @@ This prototype could serve as a foundation for a larger platform aimed at **expl
 
 ## 🌄 Preview
 
-<p align="center">
-  <img src="./images/scene-view.png" alt="Overview of the main scene" width="80%">
-</p>
+![Scene view](./images/scene-view.png)
 
-<p align="center">
-  <img src="./images/player-walking.gif" alt="Player walking around" width="60%">
-</p>
+![Player walking](./images/player-walking.png)
 
 ---
 
